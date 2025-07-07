@@ -4,7 +4,7 @@ Atividade referente a disciplina de Fundamentos do Desenvolvimento de Software d
 
 # Arquivos
 
-* Imagens presentes no site
+* Imagens presentes no site (JPEG)
 * Arquivos em HTML, CSS e JavaScript
   
 
